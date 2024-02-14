@@ -4,32 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa81fa4f-91f9-490c-aa23-1a31760d1712" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/03-lab-global-objects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/01-привет-мир.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/02-global-objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/03-mortgage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/04-process.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/05-global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/06-dirname-filename.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/07-Buffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/01-http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/02-простой-вебсервер.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/03-readline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/04-URL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/05-stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/06-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/07-crypto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/08-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/09-events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/MyMath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/package.json" afterDir="false" />
+    <list default="true" id="fa81fa4f-91f9-490c-aa23-1a31760d1712" name="Changes" comment="Лабы 3-я и 4-я">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-lab-es6-modules/MyMath.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-lab-es6-modules/MyMath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-lab-es6-modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-lab-es6-modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-lab-es6-modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-lab-es6-modules/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +23,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -76,9 +63,11 @@
     "Node.js.07-crypto.js.executor": "Run",
     "Node.js.08-server.js.executor": "Run",
     "Node.js.09-events.js.executor": "Run",
+    "Node.js.Fibonacci.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "mySuperBranch",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "20.11.0",
     "javascript.nodejs.core.library.typings.version": "20.11.17",
@@ -89,7 +78,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "npm.test (1).executor": "Run",
+    "npm.test.executor": "Run",
     "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Users\\Kate\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -97,6 +89,34 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\specialist\node_js\node_project" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/03-lab-global-objects/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/05-lab-es6-modules/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test (1)" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,8 +129,17 @@
       <workItem from="1707751217843" duration="5615000" />
       <workItem from="1707758718845" duration="913000" />
       <workItem from="1707792367792" duration="17563000" />
-      <workItem from="1707878991056" duration="1021000" />
+      <workItem from="1707878991056" duration="8557000" />
     </task>
+    <task id="LOCAL-00001" summary="Лабы 3-я и 4-я">
+      <option name="closed" value="true" />
+      <created>1707880180378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707880180378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +155,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Лабы 3-я и 4-я" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабы 3-я и 4-я" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
