@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa81fa4f-91f9-490c-aa23-1a31760d1712" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/03-lab-global-objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/01-привет-мир.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/02-global-objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/03-mortgage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/04-process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/05-global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/06-dirname-filename.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/07-Buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-lab-global-objects/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/01-http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/02-простой-вебсервер.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/03-readline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/04-URL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/05-stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/06-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/07-crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/08-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/09-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lab-built-in-modules/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/MyMath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-lab-es6-modules/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cGwRdB1qHn8LqhDpyoV0Gq1yvb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.01-http.js.executor": "Run",
+    "Node.js.01-привет-мир.js.executor": "Run",
+    "Node.js.02-global-objects.js.executor": "Run",
+    "Node.js.02-простой-вебсервер.js.executor": "Run",
+    "Node.js.03-mortgage.js.executor": "Run",
+    "Node.js.03-readline.js.executor": "Run",
+    "Node.js.04-URL.js.executor": "Run",
+    "Node.js.04-process.js.executor": "Run",
+    "Node.js.05-global.js.executor": "Run",
+    "Node.js.05-stream.js.executor": "Run",
+    "Node.js.06-dirname-filename.js.executor": "Run",
+    "Node.js.06-path.js.executor": "Run",
+    "Node.js.07-Buffer.js.executor": "Run",
+    "Node.js.07-crypto.js.executor": "Run",
+    "Node.js.08-server.js.executor": "Run",
+    "Node.js.09-events.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "20.11.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.17",
+    "last_opened_file_path": "D:/specialist/node_js/node_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\specialist\node_js\node_project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa81fa4f-91f9-490c-aa23-1a31760d1712" name="Changes" comment="" />
+      <created>1707751216514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707751216514</updated>
+      <workItem from="1707751217843" duration="5615000" />
+      <workItem from="1707758718845" duration="913000" />
+      <workItem from="1707792367792" duration="17563000" />
+      <workItem from="1707878991056" duration="1021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03-lab-global-objects/05-global.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

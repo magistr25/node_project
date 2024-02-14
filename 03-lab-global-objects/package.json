@@ -1,0 +1,16 @@
+{
+  "name": "03-lab-global-objects",
+  "version": "1.0.0",
+  "main": "01-привет-мир.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
