@@ -1,0 +1,16 @@
+{
+  "name": "10-lab-mysql2",
+  "version": "1.0.0",
+  "main": "sql.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.9.1"
+  },
+  "description": ""
+}
