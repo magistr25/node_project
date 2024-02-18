@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "JS",
+      "price": 1000
+    }
+
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "bookId": 1
+    }
+  ],
+  "info": {
+    "param": "value"
+  }
+}

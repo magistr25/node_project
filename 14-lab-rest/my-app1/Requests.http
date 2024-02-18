@@ -1,0 +1,27 @@
+### Удалит книгу с id = 2
+DELETE http://localhost:3000/books/2
+
+### Вернёт книгу по id=1
+GET http://localhost:3000/books/1
+
+### Добавит книгу 4
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{
+    "id": "4",
+    "title": "NodeJS",
+    "price": 5000
+}
+
+
+### Поменяет у книги с id = 1 название на NodeJS
+PATCH http://localhost:3000/books/1
+
+{
+  "title": "NodeJS"
+}
+
+
+
+
